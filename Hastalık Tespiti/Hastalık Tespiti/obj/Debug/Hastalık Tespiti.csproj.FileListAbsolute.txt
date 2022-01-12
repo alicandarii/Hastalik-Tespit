@@ -1,0 +1,10 @@
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\bin\Debug\Hastalık Tespiti.exe.config
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\bin\Debug\Hastalık Tespiti.exe
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\bin\Debug\Hastalık Tespiti.pdb
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\obj\Debug\Hastalık Tespiti.csprojAssemblyReference.cache
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\obj\Debug\Hastalık_Tespiti.Form1.resources
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\obj\Debug\Hastalık_Tespiti.Properties.Resources.resources
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\obj\Debug\Hastalık Tespiti.csproj.GenerateResource.cache
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\obj\Debug\Hastalık Tespiti.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\obj\Debug\Hastalık Tespiti.exe
+C:\Users\Gaming\source\repos\Hastalık Tespiti\Hastalık Tespiti\obj\Debug\Hastalık Tespiti.pdb
